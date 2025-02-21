@@ -18,8 +18,9 @@ I’m into coding (Python, Java) and digging into cybersecurity—think network 
   - Breaking down tech concepts clearly and collaborating on group projects.
   - A talent for teaching and a strong will to serve and get things done effectively while keeping morale high.
 
-### What’s Cooking  
+### What’s Cooking (What am I working on)
 - Weather App: A show of my basic programming skills
+- Password Strength checker
 
 ### Fun Fact about me:
 - When I am not overly focused on coding and security, I like to exercise, find coffee and stress over what people can find on my digital footprint.
