@@ -1,4 +1,4 @@
-#Hey I am Peter Bredell 👋
+# Hey I am Peter Bredell 👋
 Computer science student at Eduvos, building skills for a cybersecurity future.
 
 I’m into coding (Python, Java) and digging into cybersecurity—think network security, scripting, and outsmarting risks.
