@@ -26,4 +26,3 @@ I’m into coding (Python, Java) and digging into cybersecurity—think network 
 - When I am not overly focused on coding and security, I like to exercise, find coffee and stress over what people can find on my digital footprint.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PeterBredell&show_icons=true&theme=radical)
-
