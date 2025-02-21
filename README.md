@@ -5,16 +5,16 @@ I’m into coding (Python, Java) and digging into cybersecurity—think network 
 
 ### Skills
 - **Programming Languages**: Python, Java, C++, C#, HTML, CSS, JavaScript, SQL
-    ![Static Badge](https://img.shields.io/badge/Learning%20Cyber%20Security-yellow?style=plastic)
+  - ![Static Badge](https://img.shields.io/badge/Learning%20Cyber%20Security-yellow?style=plastic) 
   - Crafting scripts to automate tasks and dive into cybersecurity projects.
   - Working on small projects that come my path to add to my portfolio and learn small details as I go
   - See (https://github.com/PeterBredell/WeatherWebsite)
 - **Cybersecurity Tools**: Git, Wireshark, Kali Linux, BurpSuite, Postman, Nmap etc.
-    ![Static Badge](https://img.shields.io/badge/Programming-Skilled-red?style=plastic)
+  - ![Static Badge](https://img.shields.io/badge/Programming-Skilled-red?style=plastic)
   - Experimenting with network analysis and ethical hacking essentials.
   - Learning more everyday by doing courses and learning through CTF competitions and websites like HTB/THM! 
 - **Soft Skills**: Communication, Teamwork, Problem-Solving
-  ![Static Badge](https://img.shields.io/badge/Social-green?style=plastic)
+  - ![Static Badge](https://img.shields.io/badge/Social-green?style=plastic)
   - Breaking down tech concepts clearly and collaborating on group projects.
   - A talent for teaching and a strong will to serve and get things done effectively while keeping morale high.
 
