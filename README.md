@@ -20,5 +20,5 @@ CS student at Eduvos, coding my way toward a cybersecurity career. I'm into Pyth
 - A MAC address changer for both Windows and Linux (if Windows is possible)—stealth mode activated! 🕵️‍♂️
 - Stay tuned for more digital mischief—next-level projects brewing in the cyber lab! 🚀
 
-## Fun Fact about me
-- When I am not overly focused on coding and security. I like to exercise, find coffee and stress over what people can find on my digital footprint.
+## Fun Fact about me 😄
+- When I’m not cracking code or securing systems, I’m hitting the gym to power up, sipping coffee for the grind, and stressing over what digital breadcrumbs people might uncover on my footprint! 💪☕🔍
