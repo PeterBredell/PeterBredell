@@ -1,6 +1,6 @@
 # Hey I am Peter Bredell 👋
 
-CS student at Edvvos, coding my way toward a cybersecurity career. I'm into Python, Java, and locking down systems. When I'm not debugging, I'm unraveling tech.
+CS student at Eduvos, coding my way toward a cybersecurity career. I'm into Python, Java, and locking down systems. When I'm not debugging, I'm unraveling tech.
 
 ## Skills
 - **Programming Languages**: Python, Java, C++, C#, HTML, CSS, JavaScript, SQL
