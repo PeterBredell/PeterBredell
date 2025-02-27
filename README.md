@@ -2,10 +2,6 @@
   <h1 style="color: #ffffff; text-align: center; padding: 20px; font-family: 'Arial', sans-serif;">Hey I am Peter Bredell 👋</h1>
   <p style="color: #d3d3d3; text-align: center;">Cybersecurity ninja-in-training at Edvvos, forging a future-proof skillset...</p>
 </div>
-
-# Hey I am Peter Bredell 👋
-Computer science student at Eduvos, building skills for a cybersecurity future.
-
 I’m into coding (Python, Java) and digging into cybersecurity—think network security, scripting, and outsmarting risks.
 
 ### Skills
