@@ -1,4 +1,4 @@
-<img src="assets/banner.png">
+<img src="assets/nbanner.png">
 
 I’m into coding (Python, Java) and digging into cybersecurity—think network security, scripting, and outsmarting risks.
 
